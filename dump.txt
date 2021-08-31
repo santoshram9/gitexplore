@@ -1,3 +1,1 @@
-added a chart functiion in our branch. one function
-
-adding a new function to login user via  x method
+added a chart functiion in our branch. 
